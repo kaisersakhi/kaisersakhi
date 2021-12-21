@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me here
+- 📫 Isolated!
 
 <!---
 kaisersakhi/kaisersakhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
