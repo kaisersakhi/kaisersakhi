@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kaisersakhi
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning something
+- 👀 I’m interested in problems, I mean solving 
+- 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 Isolated!
+
 
 <!---
 kaisersakhi/kaisersakhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
