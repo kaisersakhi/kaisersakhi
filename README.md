@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaisersakhi
-- 👀 I’m interested in problems, I mean solving 
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👀 Into backend development 
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on nothing yet
 
 
