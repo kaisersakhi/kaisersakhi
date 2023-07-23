@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kaisersakhi
 - 👀 Into backend development 
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on nothing yet
 
 
 <!---
